@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TestContact\TestContact\bin\Debug\netcoreapp2.1\TestContact.deps.json
+C:\Users\Admin\source\repos\TestContact\TestContact\bin\Debug\netcoreapp2.1\TestContact.runtimeconfig.json
+C:\Users\Admin\source\repos\TestContact\TestContact\bin\Debug\netcoreapp2.1\TestContact.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\TestContact\TestContact\bin\Debug\netcoreapp2.1\TestContact.dll
+C:\Users\Admin\source\repos\TestContact\TestContact\bin\Debug\netcoreapp2.1\TestContact.pdb
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.dll
+C:\Users\Admin\source\repos\TestContact\TestContact\obj\Debug\netcoreapp2.1\TestContact.pdb

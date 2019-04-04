@@ -1,0 +1,20 @@
+<div class="conatiner">  
+  <div class="input-group">
+      <div class="input-group-prepend">
+        <div class="input-group-text bg-white">
+          <i class="fas fa-search"></i>
+        </div>
+      </div>
+      <input class="form-control col-md-6" type="text" placeholder="Search Contacts" [(ngModel)]="filter"> 
+    </div>
+</div>
+
+<table class="table table-hover col-md-7">
+<tr *ngFor="let ct of service.list |filter:filter |paginate:{itemsPerPage:5,currentPage:p}">
+  <td (click)="populateForm(ct)">{{ct.FirstName}} {{ct.LastName}}</td>
+ <i class="fas fa-trash-alt fa-lg text-danger" (click)="OnDeleteContactDetail(ct.ContactId)"></i>
+</tr>
+<ul class="pagination">  
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>  
+    </ul>
+</table>
